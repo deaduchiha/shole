@@ -4,6 +4,4 @@ trojan://0130d008-0072-40de-9659-c7f1db4e62a1@uk.i2fed.com:3000?security=tls&hea
 
 ## second
 
-https://links.sha2way.com/v2ray.php?uid=0130d008-0072-40de-9659-c7f1db4e62a1
-
-https://light.24dealer.xyz/sub/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIwMFNKWmhNIiwiYWNjZXNzIjoic3Vic2NyaXB0aW9uIiwiaWF0IjoxNjgwMzAyNDA1fQ.I6kM6YBbs1Y9r3KRw6M4ZE4NN5aJUXejIGuns5bAo4s
+http://rtlp21.freedomvpn.gq:8880/sub/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJBbGlyZXphIiwiYWNjZXNzIjoic3Vic2NyaXB0aW9uIiwiaWF0IjoxNjgxNDk4Njc3fQ.6jeNNj96uw5FZ7tsVQIp2tmSlOF2c1QeJeQmKE0sUXQ
