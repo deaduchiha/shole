@@ -6,3 +6,6 @@ sudo apt install openconnect network-manager-openconnect network-manager-opencon
 
 
 sudo apt-get install openconnect network-manager-openconnect network-manager-openconnect-gnome
+
+
+https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.23/Clash.for.Windows-0.20.23-arm64-linux.tar.gz
